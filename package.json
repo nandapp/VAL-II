@@ -21,7 +21,7 @@
     },
     "dependencies": {
         "@algoz098/vue-player": "^0.4.3",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "vue-core-video-player": "0.0.1",
         "vue-router": "^3.1.3"
     }
